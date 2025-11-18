@@ -1,0 +1,1 @@
+Tại sao PHP chỉ chạy được khi truy cập qua địa chỉ http://localhost/... mà không thể chạy trực tiếp bằng cách mở file .php bằng trình duyệt?

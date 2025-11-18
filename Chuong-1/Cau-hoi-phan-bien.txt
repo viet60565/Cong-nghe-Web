@@ -1,0 +1,1 @@
+Tại sao trình duyệt phải gửi thêm một request riêng để lấy file CSS hoặc JS, trong khi hoàn toàn có thể đưa tất cả nội dung vào chung 1 file HTML duy nhất?
