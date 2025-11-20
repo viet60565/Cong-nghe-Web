@@ -1,0 +1,1 @@
+Tại sao trong PHP, trang handle_login.php và welcome.php đều bắt buộc phải gọi session_start() ngay từ đầu, và điều gì sẽ xảy ra nếu chỉ một trong hai file gọi session_start()
