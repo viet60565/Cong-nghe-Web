@@ -1,0 +1,1 @@
+Tại sao trong ứng dụng web, sau khi thực hiện INSERT dữ liệu thành công, chúng ta thường sử dụng header("Location: chapter4.php") để chuyển hướng trang thay vì tiếp tục xử lý và hiển thị kết quả ngay trong cùng request? Việc reload bằng redirect giúp giải quyết vấn đề gì liên quan đến việc submit form nhiều lần (hiện tượng “Form resubmission”)?
