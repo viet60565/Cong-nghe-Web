@@ -1,0 +1,1 @@
+Trong kiến trúc MVC, vì sao View không được phép chứa câu lệnh SQL, và điều gì sẽ xảy ra nếu ta đưa trực tiếp truy vấn CSDL vào trong View?
