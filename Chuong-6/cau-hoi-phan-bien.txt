@@ -1,0 +1,2 @@
+So sánh cách xử lý request trực tiếp trong index.php (PHT Chương 5) với cơ chế Routing trong routes/web.php (PHT Chương 6).
+Theo bạn, việc Laravel tách Routing ra khỏi Controller giúp hệ thống dễ mở rộng, dễ bảo trì và phân quyền như thế nào khi ứng dụng ngày càng lớn? Nếu không tách như vậy thì sẽ phát sinh những vấn đề gì?
