@@ -1,0 +1,1 @@
+Việc sử dụng Eloquent giúp lập trình viên thao tác với CSDL thông qua các Model thay vì câu lệnh SQL thuần. Điều này ảnh hưởng như thế nào đến khả năng mở rộng, bảo trì mã nguồn và việc làm việc nhóm trong các dự án Laravel so với cách dùng PDO ở các chương trước?
