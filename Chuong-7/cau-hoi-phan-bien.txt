@@ -1,0 +1,1 @@
+Nếu một layout Blade có nhiều @yield() (ví dụ: @yield('content'), @yield('sidebar')), thì Blade sẽ ghép nội dung từ các @section() trong View con theo nguyên tắc nào? Điều gì xảy ra nếu View con không định nghĩa một @section() tương ứng?
