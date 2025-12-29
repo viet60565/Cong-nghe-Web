@@ -1,0 +1,1 @@
+Trong một hệ thống web Laravel có nhiều vai trò (User, Admin), tại sao chỉ sử dụng Authentication (đăng nhập thành công) là chưa đủ để bảo vệ các chức năng quan trọng?

@@ -1,0 +1,16 @@
+<form action = "{{ route('sinhvien.store') }}" method = "POST">
+        @csrf
+        <div>
+            <label>Tên sinh viên:</label><br>
+            <input type="text" name="ten_sinh_vien" required>
+        </div>
+        <br>
+
+        <div>
+            <label>Email:</label><br>
+            <input type="email" name="email" required>
+        </div>
+        <br>
+        
+        <button type="submit">Thêm sinh viên</button>
+</form>
